@@ -8,6 +8,6 @@ class Personas {
         this.nombre = Juan;
         this.apellido = Rosero;
         this.edad = 20;
-        this.cedula = 2000900578;
+        this.cedula = 1000900578;
     }
 }
